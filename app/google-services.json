@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439196115550",
+    "firebase_url": "https://peruapptest.firebaseio.com",
+    "project_id": "peruapptest",
+    "storage_bucket": "peruapptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439196115550:android:d723167bcc650a7f8e8acf",
+        "android_client_info": {
+          "package_name": "com.example.peruapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439196115550-unltuq2762ndtd70uij1pshtdu6f090d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peruapptest",
+            "certificate_hash": "78545c007d540a6be412c913a46b907ea7e0d48c"
+          }
+        },
+        {
+          "client_id": "439196115550-b42g649l8p8hcnmjpsgartg50dqcbfq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBT3_OFnn0VLUb43jxMkkMCzBf-NuB1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439196115550-b42g649l8p8hcnmjpsgartg50dqcbfq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
